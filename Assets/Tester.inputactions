@@ -1,0 +1,192 @@
+{
+  "name": "Tester",
+  "maps": [
+    {
+      "name": "Test",
+      "id": "a380b091-4c1e-48ed-a11f-cc2337637ff9",
+      "actions": [
+        {
+          "name": "Hit",
+          "type": "Button",
+          "id": "3a61645d-502a-4d53-bff4-1cf1cec924fb",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": ""
+        },
+        {
+          "name": "Miss",
+          "type": "Button",
+          "id": "50901da7-b20f-49cf-945d-577c5cc7faa3",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": ""
+        },
+        {
+          "name": "Reset",
+          "type": "Button",
+          "id": "1bec0dda-563e-470e-839f-0231e5de7c7e",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": ""
+        },
+        {
+          "name": "BpmUp",
+          "type": "Button",
+          "id": "9b9acaf8-a279-4cdd-aab4-d6c0c76f66e8",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": ""
+        },
+        {
+          "name": "BpmDown",
+          "type": "Button",
+          "id": "2a492c08-9bb5-4fa2-9954-54f8261f3c37",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": ""
+        }
+      ],
+      "bindings": [
+        {
+          "name": "",
+          "id": "f6a9da15-8a2f-4d32-b305-f80f2475ead8",
+          "path": "<Keyboard>/space",
+          "interactions": "",
+          "processors": "",
+          "groups": "Keyboard&Mouse",
+          "action": "Hit",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "486e7e5d-0d96-414f-83e7-193fdd190da4",
+          "path": "<Gamepad>/buttonSouth",
+          "interactions": "",
+          "processors": "",
+          "groups": "Gamepad",
+          "action": "Hit",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "27d2c6c8-2567-49ab-bb9d-c84f30b79c44",
+          "path": "<Keyboard>/m",
+          "interactions": "",
+          "processors": "",
+          "groups": "Keyboard&Mouse",
+          "action": "Miss",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "ee34c180-0274-4cbe-9e86-7b3c2d11e3cd",
+          "path": "<Gamepad>/buttonWest",
+          "interactions": "",
+          "processors": "",
+          "groups": "Gamepad",
+          "action": "Miss",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "4e9d15d0-fc4c-4afa-9310-e5a20c2e54ee",
+          "path": "<Keyboard>/r",
+          "interactions": "",
+          "processors": "",
+          "groups": "Keyboard&Mouse",
+          "action": "Reset",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "60b4fc2a-41ac-40c6-a4fd-46f51453cad7",
+          "path": "<Gamepad>/start",
+          "interactions": "",
+          "processors": "",
+          "groups": "Gamepad",
+          "action": "Reset",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "bdb2f534-845e-4b8a-a8aa-964f72a6e77e",
+          "path": "<Keyboard>/upArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "Keyboard&Mouse",
+          "action": "BpmUp",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "233b58ca-d302-4273-838f-68266d55046c",
+          "path": "<Gamepad>/dpad/up",
+          "interactions": "",
+          "processors": "",
+          "groups": "Gamepad",
+          "action": "BpmUp",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "8d5332fc-a2f9-4d50-b610-66640d8f2c4f",
+          "path": "<Keyboard>/downArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "Keyboard&Mouse",
+          "action": "BpmDown",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "23e9ee8e-b87c-4097-b46b-d58b977f82c2",
+          "path": "<Gamepad>/dpad/down",
+          "interactions": "",
+          "processors": "",
+          "groups": "Gamepad",
+          "action": "BpmDown",
+          "isComposite": false,
+          "isPartOfComposite": false
+        }
+      ]
+    }
+  ],
+  "controlSchemes": [
+    {
+      "name": "Keyboard&Mouse",
+      "bindingGroup": "Keyboard&Mouse",
+      "devices": [
+        {
+          "devicePath": "<Keyboard>",
+          "isOptional": false,
+          "isOR": false
+        },
+        {
+          "devicePath": "<Mouse>",
+          "isOptional": true,
+          "isOR": false
+        }
+      ]
+    },
+    {
+      "name": "Gamepad",
+      "bindingGroup": "Gamepad",
+      "devices": [
+        {
+          "devicePath": "<Gamepad>",
+          "isOptional": false,
+          "isOR": false
+        }
+      ]
+    }
+  ]
+}

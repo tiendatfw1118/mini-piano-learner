@@ -1,0 +1,597 @@
+{
+  "songId": "canon_in_d_simplified",
+  "title": "Canon in D (Simplified Lead)",
+  "bpm": 90,
+  "firstBeatOffsetSec": 1.0,
+  "stems": [],
+  "notes": [
+    {
+      "id": "n1",
+      "beat": 2.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n2",
+      "beat": 3.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n3",
+      "beat": 4.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n4",
+      "beat": 5.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n5",
+      "beat": 6.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n6",
+      "beat": 7.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n7",
+      "beat": 8.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n8",
+      "beat": 9.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n9",
+      "beat": 10.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n10",
+      "beat": 11.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n11",
+      "beat": 12.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n12",
+      "beat": 13.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n13",
+      "beat": 14.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 2.0
+    },
+    {
+      "id": "n14",
+      "beat": 16.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 2.0
+    },
+    {
+      "id": "n15",
+      "beat": 18.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n16",
+      "beat": 19.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n17",
+      "beat": 20.0,
+      "lane": 6,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "n18",
+      "beat": 21.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n19",
+      "beat": 22.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n20",
+      "beat": 23.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n21",
+      "beat": 24.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n22",
+      "beat": 25.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n23",
+      "beat": 26.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n24",
+      "beat": 27.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n25",
+      "beat": 28.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n26",
+      "beat": 29.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n27",
+      "beat": 30.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 2.0
+    },
+    {
+      "id": "n28",
+      "beat": 32.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 2.0
+    },
+    {
+      "id": "n29",
+      "beat": 34.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n30",
+      "beat": 35.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n31",
+      "beat": 36.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n32",
+      "beat": 37.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n33",
+      "beat": 38.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n34",
+      "beat": 39.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n35",
+      "beat": 40.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n36",
+      "beat": 41.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n37",
+      "beat": 42.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n38",
+      "beat": 43.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n39",
+      "beat": 44.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n40",
+      "beat": 45.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n41",
+      "beat": 46.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 2.0
+    },
+    {
+      "id": "n42",
+      "beat": 48.0,
+      "lane": 0,
+      "degree": 7,
+      "len": 2.0
+    },
+    {
+      "id": "n43",
+      "beat": 50.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 0.5
+    },
+    {
+      "id": "n44",
+      "beat": 50.5,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n45",
+      "beat": 51.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n46",
+      "beat": 51.5,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n47",
+      "beat": 52.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 0.5
+    },
+    {
+      "id": "n48",
+      "beat": 52.5,
+      "lane": 6,
+      "degree": 6,
+      "len": 0.5
+    },
+    {
+      "id": "n49",
+      "beat": 53.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 0.5
+    },
+    {
+      "id": "n50",
+      "beat": 53.5,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n51",
+      "beat": 54.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n52",
+      "beat": 54.5,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n53",
+      "beat": 55.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 0.5
+    },
+    {
+      "id": "n54",
+      "beat": 55.5,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n55",
+      "beat": 56.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n56",
+      "beat": 56.5,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n57",
+      "beat": 57.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n58",
+      "beat": 58.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n59",
+      "beat": 59.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n60",
+      "beat": 59.5,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n61",
+      "beat": 60.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n62",
+      "beat": 60.5,
+      "lane": 1,
+      "degree": 1,
+      "len": 0.5
+    },
+    {
+      "id": "n63",
+      "beat": 61.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n64",
+      "beat": 61.5,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n65",
+      "beat": 62.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n66",
+      "beat": 62.5,
+      "lane": 5,
+      "degree": 5,
+      "len": 0.5
+    },
+    {
+      "id": "n67",
+      "beat": 63.0,
+      "lane": 6,
+      "degree": 6,
+      "len": 0.5
+    },
+    {
+      "id": "n68",
+      "beat": 63.5,
+      "lane": 5,
+      "degree": 5,
+      "len": 0.5
+    },
+    {
+      "id": "n69",
+      "beat": 64.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 0.5
+    },
+    {
+      "id": "n70",
+      "beat": 64.5,
+      "lane": 3,
+      "degree": 3,
+      "len": 0.5
+    },
+    {
+      "id": "n71",
+      "beat": 65.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 0.5
+    },
+    {
+      "id": "n72",
+      "beat": 65.5,
+      "lane": 1,
+      "degree": 1,
+      "len": 0.5
+    },
+    {
+      "id": "n73",
+      "beat": 66.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n74",
+      "beat": 67.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n75",
+      "beat": 68.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n76",
+      "beat": 69.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n77",
+      "beat": 70.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n78",
+      "beat": 71.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "n79",
+      "beat": 72.0,
+      "lane": 4,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "n80",
+      "beat": 73.0,
+      "lane": 3,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "n81",
+      "beat": 74.0,
+      "lane": 2,
+      "degree": 2,
+      "len": 1.0
+    },
+    {
+      "id": "n82",
+      "beat": 75.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "n83",
+      "beat": 76.0,
+      "lane": 1,
+      "degree": 1,
+      "len": 2.0
+    },
+    {
+      "id": "n84",
+      "beat": 78.0,
+      "lane": 5,
+      "degree": 5,
+      "len": 2.0
+    }
+  ]
+}

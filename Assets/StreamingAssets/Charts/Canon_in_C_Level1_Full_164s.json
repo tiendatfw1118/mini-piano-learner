@@ -1,0 +1,457 @@
+{
+  "songId": "canon_in_c_level1_full_chords_per_bar_tap_len164",
+  "title": "Canon in C – Level 1 (Full, 2:44 from bar 1) – Chords/Bar Tap",
+  "bpm": 93.659,
+  "firstBeatOffsetSec": 1.0,
+  "stems": [],
+  "notes": [
+    {
+      "id": "7984b346",
+      "beat": 2.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "c06c3ed7",
+      "beat": 6.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "8497d1f1",
+      "beat": 10.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "5e559976",
+      "beat": 14.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "bb3da659",
+      "beat": 18.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "5eb44369",
+      "beat": 22.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "c0c9d035",
+      "beat": 26.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "768d1a79",
+      "beat": 30.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "77539e99",
+      "beat": 34.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "0af7256f",
+      "beat": 38.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "81960c73",
+      "beat": 42.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "93d3a2fd",
+      "beat": 46.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "e2a2c1f5",
+      "beat": 50.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "3701bccb",
+      "beat": 54.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "d64a8e15",
+      "beat": 58.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "edaec4de",
+      "beat": 62.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "8d42515a",
+      "beat": 66.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "219dd853",
+      "beat": 70.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "00346cf6",
+      "beat": 74.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "7fad1a3d",
+      "beat": 78.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "0e58b3b8",
+      "beat": 82.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "0a446560",
+      "beat": 86.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "8c788711",
+      "beat": 90.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "b1e8ae12",
+      "beat": 94.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "c13f17b4",
+      "beat": 98.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "1a82db99",
+      "beat": 102.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "18aca9de",
+      "beat": 106.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "8eae0a23",
+      "beat": 110.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "679546aa",
+      "beat": 114.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "054c8a4b",
+      "beat": 118.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "4ccfc0de",
+      "beat": 122.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "819c0668",
+      "beat": 126.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "f284eb77",
+      "beat": 130.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "468cf8d4",
+      "beat": 134.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "69217d0c",
+      "beat": 138.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "5413e7b6",
+      "beat": 142.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "90f0aec8",
+      "beat": 146.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "353f14a3",
+      "beat": 150.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "62c763a2",
+      "beat": 154.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "541eefc3",
+      "beat": 158.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "e1b388da",
+      "beat": 162.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "8faafc8e",
+      "beat": 166.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "6a8d0825",
+      "beat": 170.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "43caf503",
+      "beat": 174.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "4a757ece",
+      "beat": 178.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "3258120f",
+      "beat": 182.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "d243d39f",
+      "beat": 186.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "810948cc",
+      "beat": 190.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "0e74590d",
+      "beat": 194.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "a5dd62ce",
+      "beat": 198.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "6915513c",
+      "beat": 202.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "f8ef3de0",
+      "beat": 206.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "b482121c",
+      "beat": 210.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "bf5ead24",
+      "beat": 214.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "4d1e4991",
+      "beat": 218.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "82f32705",
+      "beat": 222.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "4c5c25af",
+      "beat": 226.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "c2969f85",
+      "beat": 230.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    },
+    {
+      "id": "5986437a",
+      "beat": 234.0,
+      "lane": 5,
+      "degree": 6,
+      "len": 1.0
+    },
+    {
+      "id": "9b05f174",
+      "beat": 238.0,
+      "lane": 2,
+      "degree": 3,
+      "len": 1.0
+    },
+    {
+      "id": "b01bc893",
+      "beat": 242.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "f0d0cdb4",
+      "beat": 246.0,
+      "lane": 0,
+      "degree": 1,
+      "len": 1.0
+    },
+    {
+      "id": "126460f7",
+      "beat": 250.0,
+      "lane": 3,
+      "degree": 4,
+      "len": 1.0
+    },
+    {
+      "id": "86cb715a",
+      "beat": 254.0,
+      "lane": 4,
+      "degree": 5,
+      "len": 1.0
+    }
+  ]
+}
