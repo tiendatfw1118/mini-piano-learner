@@ -130,6 +130,9 @@ Example:
 - Stem never unmutes: confirm `StemController` is present and subscribed, and `PerformanceMixController` streak thresholds are set (> 0).
 - Input feels offset: tune `inputOffsetMs` in RemoteConfig; verify hit windows and BPM are correct.
 
+## Known Bugs
+- When the BPM got increase, note judging logic will be messed, need investigating
+
 
 ## License
 
