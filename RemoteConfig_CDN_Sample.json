@@ -1,0 +1,15 @@
+{
+  "baseBpm": 100,
+  "bpmStep": 10,
+  "speedUpCombo": 4,
+  "speedDownMissStreak": 3,
+  "minBpm": 60,
+  "maxBpm": 200,
+  "hitWindowMs": {
+    "perfect": 250,
+    "great": 500,
+    "good": 1000
+  },
+  "inputOffsetMs": 100,
+  "audioLatencyMs": 0
+}
