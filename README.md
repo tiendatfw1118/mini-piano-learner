@@ -76,6 +76,7 @@ Usage:
 
 CDN setup options:
 - Configure at runtime via `CDNSetup` component (inspector or context menu) or call `RemoteConfigLoader.ConfigureCDN(baseUrl, endpoint, timeout)`. The loader logs errors on failures and falls back to local.
+- Currently Used CDN URL: https://world-streamer.s3.ap-southeast-1.amazonaws.com/RemoteConfig_CDN.json
 
 
 ## Charts
