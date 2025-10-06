@@ -5,7 +5,6 @@ This repository implements two Duolingo Music–style mini-games in Unity, optim
 - "Speed it Up" (Rhythm Tap / Tempo Increasing)
 - "Perform the Song" (Performance Mode with background stem control)
 
-
 ### Highlights
 - Modular systems: `Boot`, `Conductor`, `TempoController`, `JudgeController`, `NoteSpawner`, `PerformanceMixController`, `StemController`, `GameEventBus`.
 - Object pooling for notes, lean UI rendering, and horizontal playfield.
@@ -100,7 +99,7 @@ Example:
 
 ## Building and Running
 
-1) Open the project in Unity 2022 LTS (or newer LTS recommended).
+1) Open the project in Unity 6000.1.8f (or newer LTS recommended).
 2) Use the scene builder or open the main scene created by `Assets/Editor/SpeedItUpSceneBuilderV21.cs`.
 3) In `Boot`:
    - Select mini-game: Tempo Increasing or Background Stem.
@@ -122,7 +121,6 @@ Example:
 
 - Source code in this repository
 - README (this file)
-- Short demo video (≤ 2 minutes) capturing both mini-games
 
 
 ## Troubleshooting
