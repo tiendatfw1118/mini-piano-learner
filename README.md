@@ -131,6 +131,8 @@ Example:
 
 ## Known Bugs
 - When the BPM got increase, note judging logic will be messed, need investigating.
+
+## TODO
 - Apply more than two stems to test for drifting and test StemController usage.
 
 
