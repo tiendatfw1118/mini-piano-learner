@@ -102,9 +102,7 @@ Example:
 1) Open the project in Unity 6000.1.8f (or newer LTS recommended).
 2) Use the scene builder or open the main scene created by `Assets/Editor/SpeedItUpSceneBuilderV21.cs`.
 3) In `Boot`:
-   - Select mini-game: Tempo Increasing or Background Stem.
-   - Assign `backgroundStem` (AudioSource) for Performance Mode.
-   - Toggle `takeBpmFromRemoteConfig` as needed.
+   - Select scene: SpeedItUp or PerformTheSong.
 4) Press Play.
 
 
@@ -131,7 +129,8 @@ Example:
 - Input feels offset: tune `inputOffsetMs` in RemoteConfig; verify hit windows and BPM are correct.
 
 ## Known Bugs
-- When the BPM got increase, note judging logic will be messed, need investigating
+- When the BPM got increase, note judging logic will be messed, need investigating.
+- Apply more than two stems to test for drifting and test StemController usage.
 
 
 ## License
